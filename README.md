@@ -1,0 +1,1 @@
+At my organization we control access to content using a list of allowed IP addresses. The "allow_list.txt" file contains these IP addresses. We also have a list of IP addresses that should no longer have access to this content. I created an algorithm to update the "allow_list.txt" file and remove IP addresses that should no longer have access.
